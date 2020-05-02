@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/jexcelunit_1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/eclipse/configuration/org.eclipse.osgi/989/0/.cp/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/ooxml-schemas-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iduggal/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
